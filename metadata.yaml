@@ -1,0 +1,46 @@
+_repo: The-Nabob-Volume-1_20646
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Matthews, Brander
+    aliases:
+    - Matthews, James Brander
+    - Matthews, J. Brander (James Brander)
+    - Penn, Arthur
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+  translator:
+    agent_name: Ives, George Burnham
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '9437'
+    url: http://www.gutenberg.org/2009/agents/9437
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+description: ''
+gutenberg_issued: '2007-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- 19th century -- Fiction'
+title: The Nabob, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/20646
